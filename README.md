@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gorjiali
-- 👀 I’m interested in Vuejs .
+- 👋 Hi, I’m Ali Gorji
+- 👀 I’m interested in Vuejs 💚
 - 🌱 I’m currently learning Nuxtjs
 - 📧 ag.aligorji@gmail.com
 
