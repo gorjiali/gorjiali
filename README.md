@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ali Gorji
-- 👀 I’m interested in Vuejs 💚
-- 🌱 I’m currently learning Nuxtjs
+- 💚 I’m interested in Frontend
 - 📧 ag.aligorji@gmail.com
 
 <!---
