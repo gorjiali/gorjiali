@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ali Gorji
+- 👋 Hi, I’m Ali
 - 💚 I’m interested in Frontend
 - 📧 ag.aligorji@gmail.com
 
